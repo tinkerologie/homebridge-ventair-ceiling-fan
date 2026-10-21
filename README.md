@@ -1,9 +1,11 @@
 # Ventair Skyfan DC
 
+<!-- BADGES:START -->
 [![npm](https://img.shields.io/npm/v/homebridge-ventair-ceiling-fan/latest?label=latest)](https://www.npmjs.com/package/homebridge-ventair-ceiling-fan)
-[![GitHub release](https://img.shields.io/github/release/ruaan-deysel/homebridge-ventair-ceiling-fan.svg)](https://github.com/tinkerologie/homebridge-ventair-ceiling-fan/releases)
+[![GitHub release](https://img.shields.io/github/v/release/tinkerologie/homebridge-ventair-ceiling-fan.svg)](https://github.com/tinkerologie/homebridge-ventair-ceiling-fan/releases)
 [![npm](https://img.shields.io/npm/dt/homebridge-ventair-ceiling-fan)](https://www.npmjs.com/package/homebridge-ventair-ceiling-fan)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/github/license/tinkerologie/homebridge-ventair-ceiling-fan)](./LICENSE)
+<!-- BADGES:END -->
 
 ![Skyfan DC](readme/ceiling-fan.jpg)
 
